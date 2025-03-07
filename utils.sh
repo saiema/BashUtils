@@ -23,6 +23,8 @@
 #arguments: 3 + Result, two paths and a boolean stating if the path should end with a path separator, the last argument is a result (must be just a name, do not use $)
 #similar to append but using `/` as a path separator
 
+# Muahahaha I'm so evil!
+
 #set -x
 DEBUG=0
 
